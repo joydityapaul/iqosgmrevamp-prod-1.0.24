@@ -1,0 +1,109 @@
+{
+  "type": "flex",
+  "altText": "..",
+  "contents":{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-retrievestick-1.jpg",
+              "aspectRatio": "586:586",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "586px",
+              "position": "relative"
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-retrievestick-2.jpg",
+              "aspectRatio": "586:586",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "586px",
+              "position": "relative"
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-retrievestick-3.jpg",
+              "aspectRatio": "586:586",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "586px",
+              "position": "relative"
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-retrievestick-4.jpg",
+              "aspectRatio": "586:586",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "586px",
+              "position": "relative"
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}

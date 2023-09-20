@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Custom Journey Builder Activity</title>
+    <script
+      type="text/javascript"
+      src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+    ></script>
+    <script type="text/javascript" src="js/require.js"></script>
+    <script type="text/javascript">
+      (function () {
+        const config = {
+          baseUrl: "js",
+        };
+        const dependencies = ["customActivity"];
+        require(config, dependencies);
+      })();
+    </script>
+    <!--Styles-->
+    <style type="text/css">
+      body {
+        padding: 20px;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="step1">
+      <div class="slds-grid">
+        <main class="slds-col">
+          <h1>Welcome to IQOS Guided Membership Revamp LINE App v1.0.24</h1>
+        </main>
+      </div>
+    </div>
+  </body>
+</html>

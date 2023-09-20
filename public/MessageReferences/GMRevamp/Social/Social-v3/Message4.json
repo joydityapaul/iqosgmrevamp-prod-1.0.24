@@ -1,0 +1,199 @@
+{
+  "type": "flex",
+  "altText": "##name##様 IQOS に完全に切替えるメリットとは",
+  "contents":{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch5/LINE-Batch5-95.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##SocialLessHarmLike##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch5/LINE-Batch5-Chill.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##SocialChangingTimesLike##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch5/LINE-Batch5-nofire.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##SocialNoBurnLike##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch5/LINE-Batch5-smell.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##SocialSmellLike##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch5/LINE-Batch5-Technology.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##SocialTechnologyLike##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}

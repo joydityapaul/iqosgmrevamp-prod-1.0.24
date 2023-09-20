@@ -1,0 +1,162 @@
+{
+  "type": "flex",
+  "altText": "##name##様 素敵な賞品がもらえる・当たる！",
+  "contents":{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch10/RegisteredNew/Line-10A-iqosphere-1.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##NACTION##Iqosphere_会員特典プログラムとは##NACTION##",
+                "displayText": "会員特典プログラムとは"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##promoted_image##",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##IQOSphereBenefitsCarousel##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch10/RegisteredNew/LINE-Batch10-Iqosphere-Qoins.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##IQOSphereQoinsCarousel##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch10/RegisteredNew/LINE-Batch10-Iqosphere-getqoins.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "uri",
+                "uri": "https://iqosphere.jp.iqos.com/starterpackage/?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH10A_HowToEarnQoinsStarterPackage_SPICEID=##spiceId##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}

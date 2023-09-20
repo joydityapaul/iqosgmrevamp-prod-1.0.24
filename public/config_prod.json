@@ -1,0 +1,97 @@
+{
+    "workflowApiVersion": "1.1",
+    "metaData": {
+        "icon": "images/icon.png",
+        "category": "message"
+    },
+    "type": "REST",
+    "lang": {
+        "en-US": {
+            "name": "IQOS Guided Membership Revamp V1.0",
+            "description": "Custom activity to call LINE GM Revamp API"
+        }
+    },
+    "arguments": {
+        "execute": {
+            "inArguments": [
+                {
+                    "emailAddress": "{{Contact.Default.Email}}"
+                },
+                {
+                    "phoneNumber": "8786756543"
+                }
+            ],
+            "outArguments": [
+                {
+                    "journeySwitch": "false"
+                }
+            ],
+            "url": "https://app66.pmjpgme.pmicloud.biz/journeybuilder/execute",
+            "useJwt": true
+        }
+    },
+    "configurationArguments": {
+        "save": {
+            "url": "https://app66.pmjpgme.pmicloud.biz/journeybuilder/save",
+            "useJwt": true
+        },
+        "publish": {
+            "url": "https://app66.pmjpgme.pmicloud.biz/journeybuilder/publish",
+            "useJwt": true
+        },
+        "validate": {
+            "url": "https://app66.pmjpgme.pmicloud.biz/journeybuilder/validate",
+            "useJwt": true
+        },
+        "stop": {
+            "url": "https://app66.pmjpgme.pmicloud.biz/journeybuilder/stop",
+            "useJwt": true
+        }
+    },
+    "wizardSteps": [
+        {
+            "label": "Configure Activity",
+            "key": "step1"
+        }
+    ],
+    "userInterfaces": {
+        "configModal": {
+            "height": 200,
+            "width": 250,
+            "fullscreen": false
+        }
+    },
+    "schema": {
+        "arguments": {
+            "execute": {
+                "inArguments": [
+                    {
+                        "phoneNumber": {
+                            "dataType": "Text",
+                            "isNullable": false,
+                            "direction": "in",
+                            "access": "visible"
+                        }
+                    },
+                    {
+                        "emailAddress": {
+                            "dataType": "EmailAddress",
+                            "isNullable": false,
+                            "direction": "in",
+                            "access": "visible"
+                        }
+                    }
+                ],
+                "outArguments": [
+                    {
+                        "journeySwitch": {
+                            "dataType": "Text",
+                            "direction": "out",
+                            "access": "visible"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

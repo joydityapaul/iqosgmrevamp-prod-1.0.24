@@ -1,0 +1,8 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/Welcome/WelcomeLike/Message1.json",
+        "delay": 0
+      }
+  }
+}

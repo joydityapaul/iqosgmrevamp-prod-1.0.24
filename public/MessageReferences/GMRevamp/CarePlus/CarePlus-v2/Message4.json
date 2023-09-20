@@ -1,0 +1,201 @@
+{
+  "type": "flex",
+  "altText": "##name##様 選択いただいた情報をお届けします",
+  "contents":{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-removestick.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##StickCarousel##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-aftercare.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##NACTION##CarePlus_#IQOS ケアプラス##NACTION##",
+                "displayText": "#IQOS ケアプラス"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-IqosSpot.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##IQOSSpotCarousel##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-faulty-others.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##NACTION##DeviceRegistration_製品登録一覧・アフター保証##NACTION##",
+                "displayText": "製品登録一覧・アフター保証"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch7/LINE-Batch7-enjoyment.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##ScenesCarousel##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}

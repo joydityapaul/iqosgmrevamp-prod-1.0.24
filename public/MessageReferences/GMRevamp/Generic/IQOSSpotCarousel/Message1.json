@@ -1,0 +1,41 @@
+{
+  "type": "template",
+  "altText": "..",
+  "template": {
+    "type": "image_carousel",
+    "columns": [
+      {
+        "imageUrl": "##base_url##/Generic/IQOSSpotCarousel/LINE-Batch4-IqosSpot-internetcafe.jpg",
+        "action": {
+          "type": "uri",
+          "label": "インターネットカフェ",
+          "uri": "##utmBaseURL##/news/iqos-spot/?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH-4-7A_IqosSpots-InternetCafe_SPICEID=##spiceId##"
+        }
+      },
+      {
+        "imageUrl": "##base_url##/Generic/IQOSSpotCarousel/Line-4A-iqosspot-2.jpg",
+        "action": {
+          "type": "uri",
+          "label": "カフェ",
+          "uri": "##utmBaseURL##/news/iqos-spot/?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH-4-7A_IqosSpots-Cafe_SPICEID=##spiceId##"
+        }
+      },
+      {
+        "imageUrl": "##base_url##/Generic/IQOSSpotCarousel/LINE-Batch4-IqosSpot-Karaoke.jpg",
+        "action": {
+          "type": "uri",
+          "label": "カラオケ",
+          "uri": "##utmBaseURL##/news/iqos-spot/?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH-4-7A_IqosSpots-Karaoke_SPICEID=##spiceId##"
+        }
+      },
+      {
+        "imageUrl": "##base_url##/Generic/IQOSSpotCarousel/LINE-Batch4-IqosSpot-club-dining.jpg",
+        "action": {
+          "type": "uri",
+          "label": "クラブ/ダイニング",
+          "uri": "##utmBaseURL##/news/iqos-spot/?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH-4-7A_IqosSpots-club-dining_SPICEID=##spiceId##"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/Tips/Message1_logo.json",
+        "delay": 0
+      },
+      "Message2": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/Tips/Message2.json",
+        "delay": 0
+      },
+      "Message3": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/Tips/Message3_disclaimer.json",
+        "delay": 0
+      },
+      "Message4": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/Tips/Message4.json",
+        "delay": 0
+      }
+    }
+  }
+  

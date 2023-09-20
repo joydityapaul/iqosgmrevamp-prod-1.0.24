@@ -1,0 +1,200 @@
+{
+  "type": "flex",
+  "altText": "##name##様 選択いただいた情報をお届けします",
+  "contents":{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch8/LINE-Batch8-discover.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "uri",
+                "uri": "##utmBaseURL##/discover/iluma/tobacco-stick/?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH8A_LightingGuide_SPICEID=##spiceId##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch8/LINE-Batch8-tips.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##TipsCarousel##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch8/LINE-Batch8-earning.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##NACTION##IqospherePresent_抽選に応募する##NACTION##",
+                "displayText": "抽選に応募する"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch8/LINE-Batch8-app.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "uri",
+                "uri": "##utmBaseURL##/apps/?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH8A_HowToConfigYourDevice_SPICEID=##spiceId##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch8/LINE-Batch8-disposal.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "uri",
+                "uri": "##utmBaseURL##/support/faq/how-to-disposal-tobacco-stick/?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH8A_HowToDispose_SPICEID=##spiceId##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}

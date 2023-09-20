@@ -1,0 +1,21 @@
+{
+  "type": "imagemap",
+  "baseUrl": "##base_url##/batch11/ExistingSame/LINE-Batch11-Qoins-Fullwidth.jpg",
+  "altText": "##name##様 簡単なアンケートに答えて100コインズゲット！",
+  "baseSize": {
+    "width": 1040,
+    "height": 1172
+  },
+  "actions": [
+    {
+      "type": "uri",
+      "area": {
+        "x": 0,
+        "y": 979,
+        "width": 1036,
+        "height": 193
+      },
+      "linkUri": "##promoUrl##?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH12_DontMissChanceEarnQoins_SPICEID=##spiceId##"
+    }
+  ]
+}

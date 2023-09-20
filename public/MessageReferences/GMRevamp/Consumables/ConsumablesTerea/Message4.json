@@ -1,0 +1,124 @@
+{
+  "type": "flex",
+  "altText": "##name##様 多彩なラインアップから選ぼう!",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch3/RegisteredNew/LINE-Batch3-Terea.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##NACTION##Terea_テリアの全種類を見る##NACTION##",
+                "displayText": "テリアの全種類を見る"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch3/RegisteredNew/LINE-Batch3-Insertstick.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##ConsumablesCarousel##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch3/RegisteredNew/LINE-Batch3-Testimonial.jpg",
+              "aspectRatio": "572:800",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "572px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "15%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "postback",
+                "data": "##ACTION##ConsumablesLike##ACTION##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}

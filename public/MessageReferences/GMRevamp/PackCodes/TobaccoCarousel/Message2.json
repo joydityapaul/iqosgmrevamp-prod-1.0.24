@@ -1,0 +1,161 @@
+{
+  "type": "flex",
+  "altText": "..",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch2/TobaccoCarousel/##userTobaccoSurvey##.jpg",
+              "aspectRatio": "573:462",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "573px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "30%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "uri",
+                "uri": "##utmBaseURL##/products/##userTobaccoSurveyUrl##?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=##utm_content##_SPICEID=##spiceId##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch2/TobaccoCarousel/##userTobaccoSurvey##.jpg",
+              "aspectRatio": "573:462",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "573px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "30%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "uri",
+                "uri": "##utmBaseURL##/products/##userTobaccoSurveyUrl##?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=##utm_content##_SPICEID=##spiceId##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch2/TobaccoCarousel/##userTobaccoSurvey##.jpg",
+              "aspectRatio": "573:462",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "573px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "30%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "uri",
+                "uri": "##utmBaseURL##/products/##userTobaccoSurveyUrl##?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=##utm_content##_SPICEID=##spiceId##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "direction": "ltr",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "##base_url##/batch2/TobaccoCarousel/##userTobaccoSurvey##.jpg",
+              "aspectRatio": "573:462",
+              "aspectMode": "cover",
+              "margin": "none",
+              "align": "start",
+              "gravity": "top",
+              "size": "573px",
+              "position": "relative"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "width": "100%",
+              "height": "30%",
+              "offsetBottom": "0%",
+              "action": {
+                "type": "uri",
+                "uri": "##utmBaseURL##/products/##userTobaccoSurveyUrl##?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=##utm_content##_SPICEID=##spiceId##"
+              }
+            }
+          ],
+          "position": "relative",
+          "margin": "none",
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}

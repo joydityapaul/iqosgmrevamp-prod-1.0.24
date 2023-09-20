@@ -1,0 +1,73 @@
+{
+  "UTMJourneyMapping": {
+    "NDR":"GMREVAMP_NDR",
+    "RegisteredNew":"GMREVAMP_RegisteredNew",
+    "ExistingSame":"GMREVAMP_ExistingSame",
+    "ExistingDiff":"GMREVAMP_ExistingDiff"
+  },
+  "userTobaccoSurveyMapping":{
+    "sentia-clear-silver":"sentia-clear-silver",
+    "sentia-deep-bronze":"sentia-deep-bronze",
+    "sentia-fresh-emerald":"sentia-fresh-emerald",
+    "sentia-fresh-purple":"sentia-fresh-purple",
+    "sentia-frost-green":"sentia-frost-green",
+    "sentia-icy-black":"sentia-icy-black",
+    "sentia-icy-purple":"sentia-icy-purple",
+    "sentia-pure-teak":"sentia-pure-teak",
+    "terea-black-menthol":"terea-black-menthol",
+    "terea-black-purple-menthol":"terea-black-purple-menthol",
+    "terea-menthol":"terea-menthol",
+    "terea-mint":"terea-mint",
+    "terea-purple-menthol":"terea-purple-menthol",
+    "terea-regular":"terea-regular",
+    "terea-rich-regular":"terea-rich-regular",
+    "terea-smooth-regular":"terea-smooth-regular",
+    "terea-yellow-menthol":"terea-yellow-menthol"
+  },
+  "userTobaccoSurveyUrlMapping":{
+    "sentia-clear-silver":"sentia-clear-silver/",
+    "sentia-deep-bronze":"sentia-deep-bronz/",
+    "sentia-fresh-emerald":"sentia-fresh-emerald/",
+    "sentia-fresh-purple":"sentia-fresh-purple/",
+    "sentia-frost-green":"sentia-frost-green/",
+    "sentia-icy-black":"sentia-icy-black/",
+    "sentia-icy-purple":"sentia-icy-purple/",
+    "sentia-pure-teak":"sentia-pure-teak/",
+    "terea-black-menthol":"terea-black-menthol/",
+    "terea-black-purple-menthol":"terea-black-purple-menthol/",
+    "terea-menthol":"terea-menthol/",
+    "terea-mint":"terea-mint/",
+    "terea-purple-menthol":"terea-purple-menthol/",
+    "terea-regular":"terea-regular",
+    "terea-rich-regular":"terea-rich-regular/",
+    "terea-smooth-regular":"terea-smooth-regular/",
+    "terea-yellow-menthol":"terea-yellow-menthol/"
+  },
+  "UTMContentMapping": {
+    "terea-rich-regular":"BATCH2A_4SKUTereaRichRegular",
+    "terea-regular":"BATCH2A_4SKUTereaRegular",
+    "terea-menthol":"BATCH2A_4SKUTereaMenthol",
+    "terea-black-menthol":"BATCH2A_4SKUTereaBlackMenthol",
+    "terea-mint":"BATCH2A_4SKUTereaMint",
+    "terea-yellow-menthol":"BATCH2A_4SKUTereaYellowMenthol",
+    "terea-black-purple-menthol":"BATCH2A_4SKUTereaBlackPurpleMenthol",
+    "terea-smooth-regular":"BATCH2A_4SKUTereaSmoothRegular",
+    "terea-purple-menthol":"BATCH2A_4SKUTereaPurpleMenthol",
+    "sentia-clear-silver":"BATCH2A_4SKUSentiaClearSilver",
+    "sentia-deep-bronze":"BATCH2A_4SKUSentiaDeepBronze",
+    "sentia-icy-black":"BATCH2A_4SKUSentiaIcyBlack",
+    "sentia-fresh-purple":"BATCH2A_4SKUSentiaFreshPurple",
+    "sentia-frost-green":"BATCH2A_4SKUSentiaFrostGreen",
+    "sentia-icy-purple":"BATCH2A_4SKUSentiaIcyPurple",
+    "sentia-fresh-emerald":"BATCH2A_4SKUSentiaFreshEmerald",
+    "sentia-pure-teak":"BATCH2A_4SKUSentiaPureTeak"
+  },
+  "UTMSource": "GMREVAMP_LINE",
+  "UTMMedium": "Social",
+  "UTMDRMJourneyMapping": {
+    "GM-NDR":"GMR_DRM_NDR",
+    "GM-RegisteredNew":"GMR_DRM_RegisteredNew",
+    "GM-ExistingSame":"GMR_DRM_ExistingSame",
+    "GM-ExistingDiff":"GMR_DRM_ExistingDifferent"
+  }
+}

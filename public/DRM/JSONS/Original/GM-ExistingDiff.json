@@ -1,0 +1,64 @@
+{
+    "json": {
+        "size": {
+            "width": 2500,
+            "height": 1686
+        },
+        "selected": true,
+        "name": "GM-ExistingDiff",
+        "chatBarText": "メニューはこちら",
+        "areas": [
+            {
+                "bounds": {
+                    "x": 1237,
+                    "y": 12,
+                    "width": 1263,
+                    "height": 198
+                },
+                "action": {
+                    "type": "richmenuswitch",
+                    "richMenuAliasId": "rgm-def-gm-existingdiff",
+                    "data": "##ACTION##DRM-Default##ACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 28,
+                    "y": 249,
+                    "width": 1624,
+                    "height": 1367
+                },
+                "action": {
+                    "type": "uri",
+                    "uri": "##utmBaseURL##/support/first-steps-with-iqos?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=DRM-StarterGuide"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 1668,
+                    "y": 245,
+                    "width": 808,
+                    "height": 687
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "#サポート",
+                    "data": "##NACTION##Support##NACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 1668,
+                    "y": 949,
+                    "width": 808,
+                    "height": 663
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "会員特典プログラムとは",
+                    "data": "##NACTION##Iqosphere##NACTION##"
+                }
+            }
+        ]
+   }
+}

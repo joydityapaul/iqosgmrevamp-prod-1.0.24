@@ -1,0 +1,22 @@
+{
+  "size": "giga",
+  "type": "imagemap",
+  "baseUrl": "##base_url##/Generic/disclaimers/Disclaimer-SW-HW.png",
+  "altText": "##name##様 にぴったりの味わいをご紹介",
+  "baseSize": {
+    "width": 1040,
+    "height": 366
+  },
+  "actions": [
+    {
+      "type": "uri",
+      "linkUri": "##base_url##/Generic/disclaimers/Disclaimer-SW-HW.png",
+      "area": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "size": "giga",
+  "type": "imagemap",
+  "baseUrl": "##base_url##/Generic/disclaimers/Disclaimer-SW-HW-95.png",
+  "altText": "##name##様 IQOS に完全に切替えるメリットとは",
+  "baseSize": {
+    "width": 1040,
+    "height": 498
+  },
+  "actions": [
+    {
+      "type": "uri",
+      "linkUri": "##base_url##/Generic/disclaimers/Disclaimer-SW-HW-95.png",
+      "area": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      }
+    }
+  ]
+}

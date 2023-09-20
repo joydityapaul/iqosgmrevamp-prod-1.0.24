@@ -1,0 +1,164 @@
+{
+  "staging": {
+    "Host": "mcmzcmrp6vy992bq0qkxrjz-tp10.ftp.marketingcloudops.com",
+    "Port": 22,
+    "User": "100026217_3",
+    "Password": "Y#m074Y6YtjZ83h3F@lA",
+    "envURL": "iqosqa",
+    "DRM_Json_Upload": "DRM_Json_Upload.csv",
+    "IQOSGM_RevampJourneyLineMessageLog": "IQOSGM_RevampJourneyLineMessageLog.csv",
+    "IQOSGM_RevampJourneyLineMessageCTALog": "IQOSGM_RevampJourneyLineMessageCTALog.csv",
+    "IQOSGM_RevampJourneyLinePrimaryMessageLog": "IQOSGM_RevampJourneyLinePrimaryMessageLog.csv",
+    "remoteDir": "/Import/PMJ/GM_Revamp",
+    "remoteDRMDir": "/Export/PMJ/GM_Revamp",
+    "scheduleHour": 10,
+    "scheduleMinute": 15,
+    "fileAgeInDays": 7,
+    "xApiKey": "SA6PQZjcAPgXhUc-QJzuiA",
+    "xapikeyPrimary": "dQzVeW863iwUfYE4MrmySaxuGTkHjRDC",
+    "envBasedUrl": "line://app/1606135950-AkevLRzg?to=qoins/tier/myaccount",
+    "utmBaseURL": "https://jp.iqos.com",
+    "profillingQuizSurveyUrl":"https://cloud.trial.iqos.jp/ProfilingQuizSurvey",
+    "checkPointSurveyPageUrl":"https://cloud.trial.iqos.jp/CheckPointSurveyPage",
+    "needHelpSurvey6BUrl":"https://cloud.trial.iqos.jp/NeedHelpSurvey6B",
+    "IS": {
+      "url": "https://philipmorrisit2.australia-3.evergage.com/api2/authevent/iqosiq_dev",
+      "authToken": "Basic QUFDRTlBQTItMzU5QS00RTcwLUEwQTMtQkY0NTcxRDQwMjUyOm4tcGhuX1hIRDY5enR3VTg2aVRjakZSTFZtMzh6MG9IQnJSMDhnZUhrcEE="
+    },
+    "refreshJsonAuthTokenPayload": {
+      "grant_type": "client_credentials",
+      "client_id": "4lsqfq3s632f05h4n7vlkq2k",
+      "client_secret": "0RhSC8PG8eGu9ydynea2pX1C",
+      "account_id": "100026217"
+    },
+    "S3BaseUrl": "https://gme-prd-v1-1-sitecontentbucket-ap-northeast-1.s3.amazonaws.com/GM_Revamp/DevAssets",
+    "JSONRefresh": {
+      "AuthTokenAPI": "https://mcmzcmrp6vy992bq0qkxrjz-tp10.auth.marketingcloudapis.com/v2/token",
+      "AuthCustomerKeyAPI": "https://mcmzcmrp6vy992bq0qkxrjz-tp10.rest.marketingcloudapis.com/data/v1/customobjectdata/key/GM_Revamp_Json_Refresh_Key/rowset?$filter=JsonRefresh%20eq%20'IQOSIQ'",
+      "FTPFileName": "/iqosgm-json.txt",
+      "TempLocationLocal": "ftp_temp_iqosgm-json.txt"
+    },
+    "DRM_FTP_Details": {
+      "AuthTokenAPI": "https://mcmzcmrp6vy992bq0qkxrjz-tp10.auth.marketingcloudapis.com/v2/token",
+      "AuthCustomerKeyAPI": "https://mcmzcmrp6vy992bq0qkxrjz-tp10.rest.marketingcloudapis.com/data/v1/customobjectdata/key/Json_Refresh_Customer_Key/rowset?$filter=JsonRefresh%20eq%20'DRM-GM'",
+      "FTPFileName": "/DRM/DRM_GM_Link_Menu_Journey_YYYYMMDD.csv",
+      "TempLocationLocal": "/public/DRM_GM_Sprint4_Link_Menu_Journey_YYYYMMDD.csv"
+    },
+    "PostbackDataCTA": {
+      "DATA": {
+        "action": "##action##",
+        "SID": "##spiceId##",
+        "c_LN": "##lastName##",
+        "c_FN":"##firstName##",
+        "c_J": "##journey##",
+        "s_N": "##segmentName##"
+      }
+    },
+    "PostbackDataNative": "action=##action##&c_J=##postbackjourney##&s_N=##SegmentName##&text=##ntext##",
+    "DRMPostbackDataCTA": {
+      "DATA": {
+        "action": "##action##",
+        "c_J": "##DRM##",
+        "s_N": "##RMN##"
+      }
+    },
+    "DRMPostbackDataNative": "action=##action##&c_J=##DRM##&s_N=##RMN##&text=##ntext##",
+    "NewRelic": {
+      "app_name": "jp-sfmc-iqosiq-dev",
+      "license_key": "770ff9ed6500d517c3622ff48d9c421eFFFFNRAL"
+    },
+    "DRM": {
+      "xapikey": "zHb5De8H53c6VtC6gn6hZfKhP3MtFien",
+      "link_url": "https://line.iqosqa.jp/lambda/richmenu/link",
+      "unlink_url": "https://line.iqosqa.jp/lambda/richmenu/unlink",
+      "create_url": "https://line.iqosqa.jp/lambda/richmenu/create",
+      "alias_url": "https://line.iqosqa.jp/lambda/richmenu/alias",
+      "delete_url": "/lambda/richmenu/delete",
+      "alias_delete_url": "/lambda/richmenu/alias_delete"
+    },
+    "MultiClick": 10000,
+    "DefaultPath": "../public/MessageReferences/GMRevamp/",
+    "envWebURL": "stg-iqos"
+  },
+  "production": {
+    "Host": "mcmzcmrp6vy992bq0qkxrjz-tp10.ftp.marketingcloudops.com",
+    "Port": 22,
+    "User": "100024142_3",
+    "Password": "!vN7n6nJRvWM!dtvsnUC",
+    "envURL": "iqosphere",
+    "DRM_Json_Upload": "DRM_Json_Upload.csv",
+    "IQOSGM_RevampJourneyLineMessageLog": "IQOSGM_RevampJourneyLineMessageLog.csv",
+    "IQOSGM_RevampJourneyLineMessageCTALog": "IQOSGM_RevampJourneyLineMessageCTALog.csv",
+    "IQOSGM_RevampJourneyLinePrimaryMessageLog": "IQOSGM_RevampJourneyLinePrimaryMessageLog.csv",
+    "remoteDir": "/Import/PMJ/GM_Revamp",
+    "remoteDRMDir": "/Export/PMJ/GM_Revamp",
+    "scheduleHour": 13,
+    "scheduleMinute": 45,
+    "fileAgeInDays": 7,
+    "xApiKey": "yUd3YWERBWH6EkHFn8QWAg",
+    "xapikeyPrimary": "eQWcGLdX9Dqgv4zPjF7VHwfSsEiNbhC5",
+    "envBasedUrl": "line://app/1489654470-3NKL5Gq0?to=qoins/tier/myaccount",
+    "utmBaseURL": "https://jp.iqos.com",
+    "profillingQuizSurveyUrl":"https://mcmzcmrp6vy992bq0qkxrjz-tp10.pub.sfmc-content.com/v3o0hpkxosw",
+    "checkPointSurveyPageUrl":"https://mcmzcmrp6vy992bq0qkxrjz-tp10.pub.sfmc-content.com/qt4h0dlcpqm",
+    "needHelpSurvey6BUrl":"https://mcmzcmrp6vy992bq0qkxrjz-tp10.pub.sfmc-content.com/pnwpr0grxms",
+    "IS": {
+      "url": "https://philipmorrisit2.australia-3.evergage.com/api2/authevent/iqosiq",
+      "authToken": "Basic QUFDRUNCMUYtREIxQy00M0UxLUEyQ0EtNjFFNDI3OEJBRjc4OjliY2tMakFQUWt0Um56S295dHRWLUhodVVmYnRiVkZWbkI0UXNpWWRydW8="
+    },
+    "refreshJsonAuthTokenPayload": {
+      "grant_type": "client_credentials",
+      "client_id": "z2tkwa2z30k0ueviod2gxniu",
+      "client_secret": "kq1h7hEi3YomXphVckqLY3KL",
+      "account_id": "100024142"
+    },
+    "S3BaseUrl": "https://gme-prd-v1-1-sitecontentbucket-ap-northeast-1.s3.amazonaws.com/GM_Revamp/ProdAssets",
+    "JSONRefresh": {
+      "AuthTokenAPI": "https://mcmzcmrp6vy992bq0qkxrjz-tp10.auth.marketingcloudapis.com/v2/token",
+      "AuthCustomerKeyAPI": "https://mcmzcmrp6vy992bq0qkxrjz-tp10.rest.marketingcloudapis.com/data/v1/customobjectdata/key/GM_Revamp_Json_Refresh_Key/rowset?$filter=JsonRefresh%20eq%20'IQOSGM'",
+      "FTPFileName": "/iqosgm-json.txt",
+      "TempLocationLocal": "ftp_temp_iqosgm-json.txt"
+    },
+    "DRM_FTP_Details": {
+      "AuthTokenAPI": "https://mcmzcmrp6vy992bq0qkxrjz-tp10.auth.marketingcloudapis.com/v2/token",
+      "AuthCustomerKeyAPI": "https://mcmzcmrp6vy992bq0qkxrjz-tp10.rest.marketingcloudapis.com/data/v1/customobjectdata/key/Json_Refresh_Customer_Key/rowset?$filter=JsonRefresh%20eq%20'DRM-GM'",
+      "FTPFileName": "/DRM/DRM_GM_Link_Menu_Journey_YYYYMMDD.csv",
+      "TempLocationLocal": "/public/DRM_GM_Sprint4_Link_Menu_Journey_YYYYMMDD.csv"
+    },
+    "PostbackDataCTA": {
+      "DATA": {
+        "action": "##action##",
+        "SID": "##spiceId##",
+        "c_LN": "##lastName##",
+        "c_FN":"##firstName##",
+        "c_J": "##journey##",
+        "s_N": "##segmentName##"
+      }
+    },
+    "PostbackDataNative": "action=##action##&c_J=##postbackjourney##&s_N=##SegmentName##&text=##ntext##",
+    "DRMPostbackDataCTA": {
+      "DATA": {
+        "action": "##action##",
+        "c_J": "##DRM##",
+        "s_N": "##RMN##"
+      }
+    },
+    "DRMPostbackDataNative": "action=##action##&c_J=##DRM##&s_N=##RMN##&text=##ntext##",
+    "NewRelic": {
+      "app_name": "jp-sfmc-iqosiq-prod",
+      "license_key": "770ff9ed6500d517c3622ff48d9c421eFFFFNRAL"
+    },
+    "DRM": {
+      "xapikey": "xbc8vCSHUuWz9ET8kitKVufRwgwVurX5",
+      "link_url": "https://line.iqosphere.jp/lambda/richmenu/link",
+      "unlink_url": "https://line.iqosphere.jp/lambda/richmenu/unlink",
+      "create_url": "https://line.iqosphere.jp/lambda/richmenu/create",
+      "alias_url": "https://line.iqosphere.jp/lambda/richmenu/alias",
+      "delete_url": "/lambda/richmenu/delete",
+      "alias_delete_url": "/lambda/richmenu/alias_delete"
+    },
+    "MultiClick": 10000,
+    "DefaultPath": "../public/MessageReferences/GMRevamp/",
+    "envWebURL": "iqos"
+  }
+}

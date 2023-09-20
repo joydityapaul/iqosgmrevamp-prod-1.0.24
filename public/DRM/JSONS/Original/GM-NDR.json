@@ -1,0 +1,77 @@
+{
+    "json": {
+        "size": {
+            "width": 2500,
+            "height": 1686
+        },
+        "selected": true,
+        "name": "GM-NDR",
+        "chatBarText": "メニューはこちら",
+        "areas": [
+            {
+                "bounds": {
+                    "x": 1237,
+                    "y": 12,
+                    "width": 1263,
+                    "height": 198
+                },
+                "action": {
+                    "type": "richmenuswitch",
+                    "richMenuAliasId": "rgm-def-gm-ndr",
+                    "data": "##ACTION##DRM-Default##ACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 24,
+                    "y": 249,
+                    "width": 2452,
+                    "height": 942
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "今すぐ製品登録する",
+                    "data": "##NACTION##DeviceRegistration##NACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 24,
+                    "y": 1207,
+                    "width": 809,
+                    "height": 412
+                },
+                "action": {
+                    "type": "uri",
+                    "uri": "##utmBaseURL##/support/first-steps-with-iqos?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=DRM-StarterGuide"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 847,
+                    "y": 1207,
+                    "width": 806,
+                    "height": 412
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "#サポート",
+                    "data": "##NACTION##Support##NACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 1667,
+                    "y": 1207,
+                    "width": 809,
+                    "height": 412
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "会員特典プログラムとは",
+                    "data": "##NACTION##Iqosphere##NACTION##"
+               }
+            }
+        ]
+   }
+}

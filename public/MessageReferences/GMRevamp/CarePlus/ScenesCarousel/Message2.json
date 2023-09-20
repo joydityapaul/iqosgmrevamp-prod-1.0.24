@@ -1,0 +1,200 @@
+{
+    "type": "flex",
+    "altText": "..",
+    "contents":{
+        "type": "carousel",
+        "contents": [
+          {
+            "type": "bubble",
+            "size": "mega",
+            "direction": "ltr",
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "##base_url##/batch7/LINE-Batch7-enjoyment-1.jpg",
+                  "aspectRatio": "572:800",
+                  "aspectMode": "cover",
+                  "margin": "none",
+                  "align": "start",
+                  "gravity": "top",
+                  "size": "572px",
+                  "position": "relative"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "position": "absolute",
+                  "width": "100%",
+                  "height": "15%",
+                  "offsetBottom": "0%",
+                  "action": {
+                    "type": "postback",
+                    "data": "##ACTION##ScenesLiveLifeLike##ACTION##"
+                  }
+                }
+              ],
+              "position": "relative",
+              "margin": "none",
+              "paddingAll": "0px"
+            }
+          },
+          {
+            "type": "bubble",
+            "size": "mega",
+            "direction": "ltr",
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "##base_url##/batch7/LINE-Batch7-enjoyment-2.jpg",
+                  "aspectRatio": "572:800",
+                  "aspectMode": "cover",
+                  "margin": "none",
+                  "align": "start",
+                  "gravity": "top",
+                  "size": "572px",
+                  "position": "relative"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "position": "absolute",
+                  "width": "100%",
+                  "height": "15%",
+                  "offsetBottom": "0%",
+                  "action": {
+                    "type": "postback",
+                    "data": "##ACTION##ScenesDontDisturbLike##ACTION##"
+                  }
+                }
+              ],
+              "position": "relative",
+              "margin": "none",
+              "paddingAll": "0px"
+            }
+          },
+          {
+            "type": "bubble",
+            "size": "mega",
+            "direction": "ltr",
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "##base_url##/batch7/LINE-Batch7-enjoyment-3.jpg",
+                  "aspectRatio": "572:800",
+                  "aspectMode": "cover",
+                  "margin": "none",
+                  "align": "start",
+                  "gravity": "top",
+                  "size": "572px",
+                  "position": "relative"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "position": "absolute",
+                  "width": "100%",
+                  "height": "15%",
+                  "offsetBottom": "0%",
+                  "action": {
+                    "type": "postback",
+                    "data": "##ACTION##ScenesSpecialEventLike##ACTION##"
+                  }
+                }
+              ],
+              "position": "relative",
+              "margin": "none",
+              "paddingAll": "0px"
+            }
+          },
+          {
+            "type": "bubble",
+            "size": "mega",
+            "direction": "ltr",
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "##base_url##/batch7/LINE-Batch7-enjoyment-4.jpg",
+                  "aspectRatio": "572:800",
+                  "aspectMode": "cover",
+                  "margin": "none",
+                  "align": "start",
+                  "gravity": "top",
+                  "size": "572px",
+                  "position": "relative"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "position": "absolute",
+                  "width": "100%",
+                  "height": "15%",
+                  "offsetBottom": "0%",
+                  "action": {
+                    "type": "postback",
+                    "data": "##ACTION##ScenesShinePersonalityLike##ACTION##"
+                  }
+                }
+              ],
+              "position": "relative",
+              "margin": "none",
+              "paddingAll": "0px"
+            }
+          },
+          {
+            "type": "bubble",
+            "size": "mega",
+            "direction": "ltr",
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "##base_url##/batch7/LINE-Batch7-enjoyment-5.jpg",
+                  "aspectRatio": "572:800",
+                  "aspectMode": "cover",
+                  "margin": "none",
+                  "align": "start",
+                  "gravity": "top",
+                  "size": "572px",
+                  "position": "relative"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "position": "absolute",
+                  "width": "100%",
+                  "height": "15%",
+                  "offsetBottom": "0%",
+                  "action": {
+                    "type": "postback",
+                    "data": "##ACTION##ScenesBlissfulTimeLike##ACTION##"
+                  }
+                }
+              ],
+              "position": "relative",
+              "margin": "none",
+              "paddingAll": "0px"
+            }
+          }
+        ]
+      }
+  }
+  
