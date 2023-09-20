@@ -1,0 +1,44 @@
+{
+  "type": "flex",
+  "altText": "##name##様 にぴったりの味わいをご紹介",
+  "contents":{
+    "type": "bubble",
+    "size": "giga",
+    "direction": "ltr",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "##base_url##/batch2/LINE-Batch2-Packcode-Fullwidth.jpg",
+          "aspectRatio": "710:800",
+          "aspectMode": "cover",
+          "margin": "none",
+          "align": "start",
+          "gravity": "top",
+          "size": "710px",
+          "position": "relative"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [],
+          "position": "absolute",
+          "width": "100%",
+          "height": "15%",
+          "offsetBottom": "0%",
+          "action": {
+            "type": "postback",
+            "data": "##NACTION##Packcode_パックコードを新しく入力してコインズを当てる##NACTION##",
+            "displayText": "パックコードを新しく入力してコインズを当てる"
+          }
+        }
+      ],
+      "position": "relative",
+      "margin": "none",
+      "paddingAll": "0px"
+    }
+  }
+
+}

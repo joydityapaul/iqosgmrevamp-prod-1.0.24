@@ -1,0 +1,21 @@
+{
+    "type": "imagemap",
+    "baseUrl": "##base_url##/batch12/LINE-Batch12-getqoins.jpg",
+    "altText": "##name##様 IQOS NAVIから最後のお願いです。",
+    "baseSize": {
+      "width": 1040,
+      "height": 804
+    },
+    "actions": [
+      {
+        "type": "uri",
+        "area": {
+          "x": 0,
+          "y": 594,
+          "width": 1040,
+          "height": 210
+        },
+        "linkUri": "##promoUrl##?utm_source=##utm_source##&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH12_DontMissChanceEarnQoins_SPICEID=##spiceId##"
+      }
+    ]
+  }

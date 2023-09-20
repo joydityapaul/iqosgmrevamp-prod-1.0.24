@@ -1,0 +1,13 @@
+{
+    "Messages": {
+      "Message2": {
+        "path": "./public/MessageReferences/GMRevamp/CMQuiz/CMQuizStickCarousel/Message1_disclaimer.json",
+        "delay": 0
+      },
+      "Message3": {
+        "path": "./public/MessageReferences/GMRevamp/CMQuiz/CMQuizStickCarousel/Message2.json",
+        "delay": 0
+      }
+    }
+  }
+  

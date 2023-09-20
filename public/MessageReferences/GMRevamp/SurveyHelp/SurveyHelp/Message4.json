@@ -1,0 +1,56 @@
+{
+  "type": "flex",
+  "altText": "##name##様 何かお手伝いできることはありますか？",
+  "contents": {
+    "type": "bubble",
+    "size": "giga",
+    "direction": "ltr",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "##base_url##/batch13/Smile_combined_roundedcorners.png",
+          "aspectRatio": "694:134",
+          "aspectMode": "cover",
+          "margin": "none",
+          "align": "start",
+          "gravity": "top",
+          "size": "694px",
+          "position": "relative"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [],
+          "position": "absolute",
+          "width": "49%",
+          "height": "100%",
+          "offsetBottom": "0%",
+          "action": {
+            "type": "uri",
+            "uri": "##needHelpSurvey6BUrl##?Spice_Id=##spiceId##&Journey=##journey##&Channel=Line&SendTime=##nowTime##&Response_Q1=true"
+          }
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [],
+          "position": "absolute",
+          "width": "49%",
+          "height": "100%",
+          "offsetBottom": "0%",
+          "action": {
+            "type": "postback",
+            "data": "##ACTION##SurveyHelpNo##ACTION##"
+          },
+          "offsetStart": "51%"
+        }
+      ],
+      "position": "relative",
+      "margin": "none",
+      "paddingAll": "0px"
+    }
+  }
+}

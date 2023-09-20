@@ -1,0 +1,21 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/IQOSSpots/IQOSSpot-v3/Message1_logo.json",
+        "delay": 0
+      },
+      "Message2": {
+        "path": "./public/MessageReferences/GMRevamp/IQOSSpots/IQOSSpot-v3/Message2.json",
+        "delay": 0
+      },
+      "Message3": {
+        "path": "./public/MessageReferences/GMRevamp/IQOSSpots/IQOSSpot-v3/Message3_disclaimer.json",
+        "delay": 0
+      },
+      "Message4": {
+        "path": "./public/MessageReferences/GMRevamp/IQOSSpots/IQOSSpot-v3/Message4_##userInterestsSurvey##.json",
+        "delay": 0
+      }
+    }
+  }
+  

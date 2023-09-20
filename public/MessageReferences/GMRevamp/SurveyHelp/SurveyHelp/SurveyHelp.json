@@ -1,0 +1,21 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelp/Message1_logo.json",
+        "delay": 0
+      },
+      "Message2": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelp/Message2_disclaimer.json",
+        "delay": 0
+      },
+      "Message3": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelp/Message3.json",
+        "delay": 0
+      },
+      "Message4": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelp/Message4.json",
+        "delay": 0
+      }
+    }
+  }
+  

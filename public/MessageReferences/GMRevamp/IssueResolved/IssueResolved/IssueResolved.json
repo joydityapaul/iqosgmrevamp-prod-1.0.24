@@ -1,0 +1,17 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolved/Message1_logo.json",
+        "delay": 0
+      },
+      "Message2": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolved/Message2.json",
+        "delay": 0
+      },
+      "Message3": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolved/Message3.json",
+        "delay": 0
+      }
+    }
+  }
+  

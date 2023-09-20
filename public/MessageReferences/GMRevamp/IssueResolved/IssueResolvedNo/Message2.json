@@ -1,0 +1,34 @@
+{
+  "type": "template",
+  "altText": "..",
+  "template": {
+    "type": "image_carousel",
+    "columns": [
+      {
+        "imageUrl": "##base_url##/batch9/Carousel.jpg",
+        "action": {
+          "type": "uri",
+          "label": "チャット",
+          "uri": "https://ocsg.chat.iqos.jp/?utm_source=##utm_source##L&utm_medium=##utm_medium##&utm_campaign=##utm_campaign##&utm_content=BATCH9.5A-B_NotResolvedHelpCard-Chat_SPICEID=##spiceId##"
+        }
+      },
+      {
+        "imageUrl": "##base_url##/batch9/Carousel-1.jpg",
+        "action": {
+          "type": "postback",
+          "label": "電話する",
+          "data": "##ACTION##IssueResolvedPhoneInfo##ACTION##"
+        }
+      },
+      {
+        "imageUrl": "##base_url##/batch9/Carousel-2.jpg",
+        "action": {
+          "type": "postback",
+          "label": "ご来店",
+          "displayText":"#IQOSストアを見る",
+          "data": "##NACTION##IQOSStore_#IQOSストアを見る##NACTION##"
+        }
+      }
+    ]
+  }
+}

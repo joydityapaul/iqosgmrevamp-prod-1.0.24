@@ -1,0 +1,9 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesLike/Message1.json",
+        "delay": 0
+      }
+    }
+  }
+  

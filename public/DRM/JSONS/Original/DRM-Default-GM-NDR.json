@@ -1,0 +1,104 @@
+{
+    "json": {
+        "size": {
+            "width": 2500,
+            "height": 1686
+        },
+        "selected": false,
+        "name": "DRM-Default-GM-NDR",
+        "chatBarText": "メニューはこちら",
+        "areas": [
+            {
+                "bounds": {
+                    "x": 12,
+                    "y": 12,
+                    "width": 1197,
+                    "height": 198
+                },
+                "action": {
+                    "type": "richmenuswitch",
+                    "richMenuAliasId": "rgm-gm-ndr",
+                    "data": "##ACTION##GM-NDR##ACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 37,
+                    "y": 256,
+                    "width": 788,
+                    "height": 685
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "#製品情報",
+                    "data": "##NACTION##Device##NACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 854,
+                    "y": 260,
+                    "width": 792,
+                    "height": 681
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "#ストア",
+                    "data": "##NACTION##Store##NACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 1675,
+                    "y": 260,
+                    "width": 792,
+                    "height": 685
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "#会員特典プログラム",
+                    "data": "##NACTION##Iqosphere##NACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 33,
+                    "y": 969,
+                    "width": 796,
+                    "height": 689
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "#サポート",
+                    "data": "##NACTION##Support##NACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 850,
+                    "y": 969,
+                    "width": 804,
+                    "height": 685
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "#IQOSストアを見る",
+                    "data": "##NACTION##Store##NACTION##"
+                }
+            },
+            {
+                "bounds": {
+                    "x": 1671,
+                    "y": 965,
+                    "width": 796,
+                    "height": 693
+                },
+                "action": {
+                    "type": "postback",
+                    "displayText": "#サービス一覧",
+                    "data": "##NACTION##Services##NACTION##"
+                }
+            }
+        ]
+     }
+}

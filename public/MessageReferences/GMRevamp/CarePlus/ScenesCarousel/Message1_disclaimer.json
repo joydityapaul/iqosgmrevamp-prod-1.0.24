@@ -1,0 +1,22 @@
+{
+  "size": "giga",
+  "type": "imagemap",
+  "baseUrl": "##base_url##/Generic/disclaimers/Disclaimer-HW.png",
+  "altText": "..",
+  "baseSize": {
+    "width": 1040,
+    "height": 208
+  },
+  "actions": [
+    {
+      "type": "uri",
+      "linkUri": "##base_url##/Generic/disclaimers/Disclaimer-HW.png",
+      "area": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      }
+    }
+  ]
+}

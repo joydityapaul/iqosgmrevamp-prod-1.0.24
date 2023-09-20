@@ -1,0 +1,9 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveySatisfied/Message1.json",
+        "delay": 0
+      }
+    }
+  }
+  

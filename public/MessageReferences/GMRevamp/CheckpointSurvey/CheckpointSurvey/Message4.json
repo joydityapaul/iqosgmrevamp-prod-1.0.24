@@ -1,0 +1,57 @@
+{
+  "type": "flex",
+  "altText": "##name##様 2週間使った後の感想を教えてください！",
+  "contents": {
+    "type": "bubble",
+    "size": "giga",
+    "direction": "ltr",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "##base_url##/batch6/LINE-Batch6-survey.jpg",
+          "aspectRatio": "730:680",
+          "aspectMode": "cover",
+          "margin": "none",
+          "align": "start",
+          "gravity": "top",
+          "size": "730px",
+          "position": "relative"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [],
+          "position": "absolute",
+          "width": "46%",
+          "height": "54%",
+          "offsetBottom": "0%",
+          "action": {
+            "type": "postback",
+            "data": "##ACTION##CheckpointSurveySatisfied##ACTION##"
+          },
+          "offsetStart": "2%"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [],
+          "position": "absolute",
+          "width": "46%",
+          "height": "54%",
+          "offsetBottom": "0%",
+          "action": {
+            "type": "uri",
+            "uri": "##checkPointSurveyPageUrl##?Spice_Id=##spiceId##&Journey=##journey##&Channel=Line&SendTime=##nowTime##&Response_Q1=false"
+          },
+          "offsetStart": "52%"
+        }
+      ],
+      "position": "relative",
+      "margin": "none",
+      "paddingAll": "0px"
+    }
+  }
+}

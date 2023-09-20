@@ -1,0 +1,648 @@
+{
+  "JOURNEY": {
+    "NDR": {
+      "Welcome": {
+        "path": "./public/MessageReferences/GMRevamp/Welcome/Welcome-v1/Welcome-v1.json",
+        "filesCount": 4
+      },
+      "WelcomeLike": {
+        "path": "./public/MessageReferences/GMRevamp/Welcome/WelcomeLike/WelcomeLike.json",
+        "filesCount": 1
+      },
+      "Tobacco": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/Tobacco/Tobacco.json",
+        "filesCount": 4
+      },
+      "TobaccoLike": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/TobaccoLike/TobaccoLike.json",
+        "filesCount": 1
+      },
+      "TobaccoCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/TobaccoCarousel/TobaccoCarousel.json",
+        "filesCount": 2
+      },
+      "ConsumablesSenita": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesSenita/ConsumablesSenita.json",
+        "filesCount": 4
+      },
+      "ConsumablesLike": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesLike/ConsumablesLike.json",
+        "filesCount": 1
+      },
+      "ConsumablesCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesCarousel/ConsumablesCarousel.json",
+        "filesCount": 1
+      },
+      "IQOSSpot": {
+        "path": "./public/MessageReferences/GMRevamp/IQOSSpots/IQOSSpot-v1/IQOSSpot.json",
+        "filesCount": 4
+      },
+      "IQOSSpotCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Generic/IQOSSpotCarousel/IQOSSpotCarousel.json",
+        "filesCount": 1
+      },
+      "SocialV1": {
+        "path": "./public/MessageReferences/GMRevamp/Social/Social-v1/Social.json",
+        "filesCount": 4
+      },
+      "SocialV2": {
+        "path": "./public/MessageReferences/GMRevamp/Social/Social-v2/Social.json",
+        "filesCount": 4
+      },
+      "SocialV3": {
+        "path": "./public/MessageReferences/GMRevamp/Social/Social-v3/Social.json",
+        "filesCount": 4
+      },
+      "SocialV4": {
+        "path": "./public/MessageReferences/GMRevamp/Social/Social-v4/Social.json",
+        "filesCount": 4
+      },
+      "SocialLessHarmLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialLessHarmLike/SocialLessHarmLike.json",
+        "filesCount": 1
+      },
+      "SocialNoBurnLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialNoBurnLike/SocialNoBurnLike.json",
+        "filesCount": 1
+      },
+      "SocialSmellLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialSmellLike/SocialSmellLike.json",
+        "filesCount": 1
+      },
+      "SocialChangingTimesLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialChangingTimesLike/SocialChangingTimesLike.json",
+        "filesCount": 1
+      },
+      "SocialTechnologyLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialTechnologyLike/SocialTechnologyLike.json",
+        "filesCount": 1
+      },
+      "CheckpointSurvey": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurvey/CheckpointSurvey.json",
+        "filesCount": 4
+      },
+      "CheckpointSurveySatisfied": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveySatisfied/CheckpointSurveySatisfied.json",
+        "filesCount": 1
+      },
+      "CheckpointSurveyHelp": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveyHelp/CheckpointSurveyHelp.json",
+        "filesCount": 4
+      },
+      "CheckpointSurveyHelpNo": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveyHelpNo/CheckpointSurveyHelpNo.json",
+        "filesCount": 1
+      },
+      "CarePlus": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/CarePlus-v1/CarePlus.json",
+        "filesCount": 4
+      },
+      "StickCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/StickCarousel/StickCarousel.json",
+        "filesCount": 2
+      },
+      "ScenesCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesCarousel/ScenesCarousel.json",
+        "filesCount": 2
+      },
+      "ScenesLiveLifeLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesLiveLifeLike/ScenesLiveLifeLike.json",
+        "filesCount": 1
+      },
+      "ScenesDontDisturbLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesDontDisturbLike/ScenesDontDisturbLike.json",
+        "filesCount": 1
+      },
+      "ScenesSpecialEventLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesSpecialEventLike/ScenesSpecialEventLike.json",
+        "filesCount": 1
+      },
+      "ScenesShinePersonalityLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesShinePersonalityLike/ScenesShinePersonalityLike.json",
+        "filesCount": 1
+      },
+      "ScenesBlissfulTimeLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesBlissfulTimeLike/ScenesBlissfulTimeLike.json",
+        "filesCount": 1
+      },
+      "Tips": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/Tips/Tips.json",
+        "filesCount": 4
+      },
+      "TipsCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsCarousel/TipsCarousel.json",
+        "filesCount": 2
+      },
+      "TipsChargeLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsChargeLike/TipsChargeLike.json",
+        "filesCount": 1
+      },
+      "TipsTobaccoStickLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsTobaccoStickLike/TipsTobaccoStickLike.json",
+        "filesCount": 1
+      },
+      "TipsLightGuideLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsLightGuideLike/TipsLightGuideLike.json",
+        "filesCount": 1
+      },
+      "TipsPerfectTasteLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsPerfectTasteLike/TipsPerfectTasteLike.json",
+        "filesCount": 1
+      },
+      "IssueResolved": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolved/IssueResolved.json",
+        "filesCount": 3
+      },
+      "IssueResolvedYes": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedYes/IssueResolvedYes.json",
+        "filesCount": 1
+      },
+      "IssueResolvedNo": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedNo/IssueResolvedNo.json",
+        "filesCount": 2
+      },
+      "IssueResolvedPhoneInfo": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedPhoneInfo/IssueResolvedPhoneInfo.json",
+        "filesCount": 1
+      },
+      "WelcomeIQOSphere": {
+        "path": "./public/MessageReferences/GMRevamp/WelcomeIQOSphere/WelcomeIQOSphere-v1/WelcomeIQOSphere.json",
+        "filesCount": 4
+      },
+      "IQOSphereBenefitsCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/WelcomeIQOSphere/IQOSphereBenefitsCarousel-v1/IQOSphereBenefitsCarousel.json",
+        "filesCount": 1
+      },
+      "IQOSphereQoinsCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/WelcomeIQOSphere/IQOSphereQoinsCarousel-v1/IQOSphereQoinsCarousel.json",
+        "filesCount": 1
+      },
+      "SurveyThankYou": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyThankYou/SurveyThankYou-v1/SurveyThankYou.json",
+        "filesCount": 4
+      },
+      "SurveyFollowUp": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyFollowUp/SurveyFollowUp/SurveyFollowUp.json",
+        "filesCount": 3
+      },
+      "SurveyHelp": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelp/SurveyHelp.json",
+        "filesCount": 4
+      },
+      "SurveyHelpNo": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelpNo/SurveyHelpNo.json",
+        "filesCount": 1
+      }
+    },
+    "RegisteredNew": {
+      "Welcome": {
+        "path": "./public/MessageReferences/GMRevamp/Welcome/Welcome-v2/Welcome-v2.json",
+        "filesCount": 4
+      },
+      "WelcomeLike": {
+        "path": "./public/MessageReferences/GMRevamp/Welcome/WelcomeLike/WelcomeLike.json",
+        "filesCount": 1
+      },
+      "Tobacco": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/Tobacco/Tobacco.json",
+        "filesCount": 4
+      },
+      "TobaccoLike": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/TobaccoLike/TobaccoLike.json",
+        "filesCount": 1
+      },
+      "TobaccoCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/TobaccoCarousel/TobaccoCarousel.json",
+        "filesCount": 2
+      },
+      "ConsumablesSenita": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesSenita/ConsumablesSenita.json",
+        "filesCount": 4
+      },
+      "ConsumablesTerea": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesTerea/ConsumablesTerea.json",
+        "filesCount": 4
+      },
+      "ConsumablesLike": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesLike/ConsumablesLike.json",
+        "filesCount": 1
+      },
+      "ConsumablesCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesCarousel/ConsumablesCarousel.json",
+        "filesCount": 1
+      },
+      "IQOSSpot": {
+        "path": "./public/MessageReferences/GMRevamp/IQOSSpots/IQOSSpot-v2/IQOSSpot.json",
+        "filesCount": 4
+      },
+      "IQOSSpotCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Generic/IQOSSpotCarousel/IQOSSpotCarousel.json",
+        "filesCount": 1
+      },
+      "SocialV1": {
+        "path": "./public/MessageReferences/GMRevamp/Social/Social-v1/Social.json",
+        "filesCount": 4
+      },
+      "SocialV2": {
+        "path": "./public/MessageReferences/GMRevamp/Social/Social-v2/Social.json",
+        "filesCount": 4
+      },
+      "SocialV3": {
+        "path": "./public/MessageReferences/GMRevamp/Social/Social-v3/Social.json",
+        "filesCount": 4
+      },
+      "SocialV4": {
+        "path": "./public/MessageReferences/GMRevamp/Social/Social-v4/Social.json",
+        "filesCount": 4
+      },
+      "SocialLessHarmLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialLessHarmLike/SocialLessHarmLike.json",
+        "filesCount": 1
+      },
+      "SocialNoBurnLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialNoBurnLike/SocialNoBurnLike.json",
+        "filesCount": 1
+      },
+      "SocialSmellLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialSmellLike/SocialSmellLike.json",
+        "filesCount": 1
+      },
+      "SocialChangingTimesLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialChangingTimesLike/SocialChangingTimesLike.json",
+        "filesCount": 1
+      },
+      "SocialTechnologyLike": {
+        "path": "./public/MessageReferences/GMRevamp/Social/SocialTechnologyLike/SocialTechnologyLike.json",
+        "filesCount": 1
+      },
+      "CheckpointSurvey": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurvey/CheckpointSurvey.json",
+        "filesCount": 4
+      },
+      "CheckpointSurveySatisfied": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveySatisfied/CheckpointSurveySatisfied.json",
+        "filesCount": 1
+      },
+      "CheckpointSurveyHelp": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveyHelp/CheckpointSurveyHelp.json",
+        "filesCount": 4
+      },
+      "CheckpointSurveyHelpNo": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveyHelpNo/CheckpointSurveyHelpNo.json",
+        "filesCount": 1
+      },
+      "CarePlus": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/CarePlus-v2/CarePlus.json",
+        "filesCount": 4
+      },
+      "StickCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/StickCarousel/StickCarousel.json",
+        "filesCount": 2
+      },
+      "ScenesCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesCarousel/ScenesCarousel.json",
+        "filesCount": 2
+      },
+      "ScenesLiveLifeLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesLiveLifeLike/ScenesLiveLifeLike.json",
+        "filesCount": 1
+      },
+      "ScenesDontDisturbLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesDontDisturbLike/ScenesDontDisturbLike.json",
+        "filesCount": 1
+      },
+      "ScenesSpecialEventLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesSpecialEventLike/ScenesSpecialEventLike.json",
+        "filesCount": 1
+      },
+      "ScenesShinePersonalityLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesShinePersonalityLike/ScenesShinePersonalityLike.json",
+        "filesCount": 1
+      },
+      "ScenesBlissfulTimeLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesBlissfulTimeLike/ScenesBlissfulTimeLike.json",
+        "filesCount": 1
+      },
+      "Tips": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/Tips/Tips.json",
+        "filesCount": 4
+      },
+      "TipsCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsCarousel/TipsCarousel.json",
+        "filesCount": 2
+      },
+      "TipsChargeLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsChargeLike/TipsChargeLike.json",
+        "filesCount": 1
+      },
+      "TipsTobaccoStickLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsTobaccoStickLike/TipsTobaccoStickLike.json",
+        "filesCount": 1
+      },
+      "TipsLightGuideLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsLightGuideLike/TipsLightGuideLike.json",
+        "filesCount": 1
+      },
+      "TipsPerfectTasteLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsPerfectTasteLike/TipsPerfectTasteLike.json",
+        "filesCount": 1
+      },
+      "IssueResolved": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolved/IssueResolved.json",
+        "filesCount": 3
+      },
+      "IssueResolvedYes": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedYes/IssueResolvedYes.json",
+        "filesCount": 1
+      },
+      "IssueResolvedNo": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedNo/IssueResolvedNo.json",
+        "filesCount": 2
+      },
+      "IssueResolvedPhoneInfo": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedPhoneInfo/IssueResolvedPhoneInfo.json",
+        "filesCount": 1
+      },
+      "WelcomeIQOSphere": {
+        "path": "./public/MessageReferences/GMRevamp/WelcomeIQOSphere/WelcomeIQOSphere-v2/WelcomeIQOSphere.json",
+        "filesCount": 4
+      },
+      "IQOSphereBenefitsCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/WelcomeIQOSphere/IQOSphereBenefitsCarousel-v2/IQOSphereBenefitsCarousel.json",
+        "filesCount": 1
+      },
+      "IQOSphereQoinsCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/WelcomeIQOSphere/IQOSphereQoinsCarousel-v2/IQOSphereQoinsCarousel.json",
+        "filesCount": 1
+      },
+      "SurveyThankYou": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyThankYou/SurveyThankYou-v2/SurveyThankYou.json",
+        "filesCount": 4
+      },
+      "SurveyFollowUp": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyFollowUp/SurveyFollowUp/SurveyFollowUp.json",
+        "filesCount": 3
+      },
+      "SurveyHelp": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelp/SurveyHelp.json",
+        "filesCount": 4
+      },
+      "SurveyHelpNo": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelpNo/SurveyHelpNo.json",
+        "filesCount": 1
+      }
+    },
+    "ExistingSame": {
+      "Welcome": {
+        "path": "./public/MessageReferences/GMRevamp/Welcome/Welcome-v3/Welcome-v3.json",
+        "filesCount": 4
+      },
+      "PackCodes": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/PackCodes-v1/PackCodes.json",
+        "filesCount": 4
+      },
+      "CheckpointSurveyHelp": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveyHelp/CheckpointSurveyHelp.json",
+        "filesCount": 4
+      },
+      "CheckpointSurveyHelpNo": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveyHelpNo/CheckpointSurveyHelpNo.json",
+        "filesCount": 1
+      },
+      "IQOSSpotCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Generic/IQOSSpotCarousel/IQOSSpotCarousel.json",
+        "filesCount": 1
+      },
+      "CarePlus": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/CarePlus-v2/CarePlus.json",
+        "filesCount": 4
+      },
+      "StickCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/StickCarousel/StickCarousel.json",
+        "filesCount": 2
+      },
+      "ScenesCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesCarousel/ScenesCarousel.json",
+        "filesCount": 2
+      },
+      "ScenesLiveLifeLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesLiveLifeLike/ScenesLiveLifeLike.json",
+        "filesCount": 1
+      },
+      "ScenesDontDisturbLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesDontDisturbLike/ScenesDontDisturbLike.json",
+        "filesCount": 1
+      },
+      "ScenesSpecialEventLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesSpecialEventLike/ScenesSpecialEventLike.json",
+        "filesCount": 1
+      },
+      "ScenesShinePersonalityLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesShinePersonalityLike/ScenesShinePersonalityLike.json",
+        "filesCount": 1
+      },
+      "ScenesBlissfulTimeLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesBlissfulTimeLike/ScenesBlissfulTimeLike.json",
+        "filesCount": 1
+      },
+      "Tips": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/Tips/Tips.json",
+        "filesCount": 4
+      },
+      "TipsCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsCarousel/TipsCarousel.json",
+        "filesCount": 2
+      },
+      "TipsChargeLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsChargeLike/TipsChargeLike.json",
+        "filesCount": 1
+      },
+      "TipsTobaccoStickLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsTobaccoStickLike/TipsTobaccoStickLike.json",
+        "filesCount": 1
+      },
+      "TipsLightGuideLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsLightGuideLike/TipsLightGuideLike.json",
+        "filesCount": 1
+      },
+      "TipsPerfectTasteLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsPerfectTasteLike/TipsPerfectTasteLike.json",
+        "filesCount": 1
+      },
+      "IssueResolved": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolved/IssueResolved.json",
+        "filesCount": 3
+      },
+      "IssueResolvedYes": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedYes/IssueResolvedYes.json",
+        "filesCount": 1
+      },
+      "IssueResolvedNo": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedNo/IssueResolvedNo.json",
+        "filesCount": 2
+      },
+      "IssueResolvedPhoneInfo": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedPhoneInfo/IssueResolvedPhoneInfo.json",
+        "filesCount": 1
+      },
+      "WelcomeIQOSphere": {
+        "path": "./public/MessageReferences/GMRevamp/WelcomeIQOSphere/WelcomeIQOSphere-v3/WelcomeIQOSphere.json",
+        "filesCount": 4
+      },
+      "SurveyThankYou": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyThankYou/SurveyThankYou-v3/SurveyThankYou.json",
+        "filesCount": 3
+      },
+      "SurveyFollowUp": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyFollowUp/SurveyFollowUp/SurveyFollowUp.json",
+        "filesCount": 3
+      },
+      "SurveyHelp": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelp/SurveyHelp.json",
+        "filesCount": 4
+      },
+      "SurveyHelpNo": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelpNo/SurveyHelpNo.json",
+        "filesCount": 1
+      }
+    },
+    "ExistingDiff": {
+      "Welcome": {
+        "path": "./public/MessageReferences/GMRevamp/Welcome/Welcome-v4/Welcome-v4.json",
+        "filesCount": 4
+      },
+      "PackCodes": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/PackCodes-v2/PackCodes.json",
+        "filesCount": 4
+      },
+      "ConsumablesCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesCarousel/ConsumablesCarousel.json",
+        "filesCount": 1
+      },
+      "IQOSSpot": {
+        "path": "./public/MessageReferences/GMRevamp/IQOSSpots/IQOSSpot-v3/IQOSSpot.json",
+        "filesCount": 4
+      },
+      "IQOSSpotCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Generic/IQOSSpotCarousel/IQOSSpotCarousel.json",
+        "filesCount": 1
+      },
+      "CheckpointSurvey": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurvey/CheckpointSurvey.json",
+        "filesCount": 4
+      },
+      "CheckpointSurveySatisfied": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveySatisfied/CheckpointSurveySatisfied.json",
+        "filesCount": 1
+      },
+      "CheckpointSurveyHelp": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveyHelp/CheckpointSurveyHelp.json",
+        "filesCount": 4
+      },
+      "CheckpointSurveyHelpNo": {
+        "path": "./public/MessageReferences/GMRevamp/CheckpointSurvey/CheckpointSurveyHelpNo/CheckpointSurveyHelpNo.json",
+        "filesCount": 1
+      },
+      "CarePlus": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/CarePlus-v2/CarePlus.json",
+        "filesCount": 4
+      },
+      "StickCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/StickCarousel/StickCarousel.json",
+        "filesCount": 2
+      },
+      "ScenesCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesCarousel/ScenesCarousel.json",
+        "filesCount": 2
+      },
+      "ScenesLiveLifeLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesLiveLifeLike/ScenesLiveLifeLike.json",
+        "filesCount": 1
+      },
+      "ScenesDontDisturbLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesDontDisturbLike/ScenesDontDisturbLike.json",
+        "filesCount": 1
+      },
+      "ScenesSpecialEventLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesSpecialEventLike/ScenesSpecialEventLike.json",
+        "filesCount": 1
+      },
+      "ScenesShinePersonalityLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesShinePersonalityLike/ScenesShinePersonalityLike.json",
+        "filesCount": 1
+      },
+      "ScenesBlissfulTimeLike": {
+        "path": "./public/MessageReferences/GMRevamp/CarePlus/ScenesBlissfulTimeLike/ScenesBlissfulTimeLike.json",
+        "filesCount": 1
+      },
+      "Tips": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/Tips/Tips.json",
+        "filesCount": 4
+      },
+      "TipsCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsCarousel/TipsCarousel.json",
+        "filesCount": 2
+      },
+      "TipsChargeLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsChargeLike/TipsChargeLike.json",
+        "filesCount": 1
+      },
+      "TipsTobaccoStickLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsTobaccoStickLike/TipsTobaccoStickLike.json",
+        "filesCount": 1
+      },
+      "TipsLightGuideLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsLightGuideLike/TipsLightGuideLike.json",
+        "filesCount": 1
+      },
+      "TipsPerfectTasteLike": {
+        "path": "./public/MessageReferences/GMRevamp/Tips/TipsPerfectTasteLike/TipsPerfectTasteLike.json",
+        "filesCount": 1
+      },
+      "IssueResolved": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolved/IssueResolved.json",
+        "filesCount": 3
+      },
+      "IssueResolvedYes": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedYes/IssueResolvedYes.json",
+        "filesCount": 1
+      },
+      "IssueResolvedNo": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedNo/IssueResolvedNo.json",
+        "filesCount": 2
+      },
+      "IssueResolvedPhoneInfo": {
+        "path": "./public/MessageReferences/GMRevamp/IssueResolved/IssueResolvedPhoneInfo/IssueResolvedPhoneInfo.json",
+        "filesCount": 1
+      },
+      "WelcomeIQOSphere": {
+        "path": "./public/MessageReferences/GMRevamp/WelcomeIQOSphere/WelcomeIQOSphere-v3/WelcomeIQOSphere.json",
+        "filesCount": 4
+      },
+      "SurveyThankYou": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyThankYou/SurveyThankYou-v4/SurveyThankYou.json",
+        "filesCount": 4
+      },
+      "SurveyFollowUp": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyFollowUp/SurveyFollowUp/SurveyFollowUp.json",
+        "filesCount": 3
+      },
+      "SurveyHelp": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelp/SurveyHelp.json",
+        "filesCount": 4
+      },
+      "SurveyHelpNo": {
+        "path": "./public/MessageReferences/GMRevamp/SurveyHelp/SurveyHelpNo/SurveyHelpNo.json",
+        "filesCount": 1
+      },
+      "CMQuiz": {
+        "path": "./public/MessageReferences/GMRevamp/CMQuiz/CMQuiz/CMQuiz.json",
+        "filesCount": 4
+      },
+      "CMQuizStickCarousel": {
+        "path": "./public/MessageReferences/GMRevamp/CMQuiz/CMQuizStickCarousel/CMQuizStickCarousel.json",
+        "filesCount": 2
+      }
+    }
+  }
+}

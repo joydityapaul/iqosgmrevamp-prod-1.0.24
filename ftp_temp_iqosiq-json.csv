@@ -1,0 +1,6 @@
+path,json
+public\MessageReferences\Phase 3\LAS\WelcomeMessage\Message1.json,"{
+    ""type"": ""text"",
+    ""wrap"": true,
+    ""text"": ""TestFName ##lname##さん、こんにちは！いかがお過ごしですか？ 今日TESTINGは##lname##さんにIQOSの新モデルをご紹介させてください ✨""
+}"

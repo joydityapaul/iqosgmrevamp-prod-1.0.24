@@ -1,0 +1,13 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesCarousel/Message1_disclaimer.json",
+        "delay": 0
+      },
+      "Message2": {
+        "path": "./public/MessageReferences/GMRevamp/Consumables/ConsumablesCarousel/Message2.json",
+        "delay": 0
+      }
+    }
+  }
+  

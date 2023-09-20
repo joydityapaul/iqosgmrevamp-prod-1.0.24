@@ -1,0 +1,8 @@
+{
+    "Messages": {
+      "Message1": {
+        "path": "./public/MessageReferences/GMRevamp/PackCodes/TobaccoLike/Message1.json",
+        "delay": 0
+      }
+  }
+}
